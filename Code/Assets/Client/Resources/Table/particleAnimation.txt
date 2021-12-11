@@ -1,0 +1,8 @@
+1	gaoliang_heng	0.22	0.52	0.9
+0	Spark	0	0.3	0.45
+3	baoza	0.22	0.52	0.9
+2	gaoliang_shu	0.22	0.52	0.9
+5	gaoliangtexiao	0	1	1.01
+4	baoza	0	0.32	0.7
+7	xuanzhuantexiao	0	2.7	3
+6	fly	0	0.36	0.4

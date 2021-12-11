@@ -1,0 +1,8 @@
+20	5	diamond_6	3	0
+21	100	diamond_addstep	3	4
+22	101	diamond_addsecond	3	4
+1	0	diamond_1	1	0
+3	2	diamond_3	1	0
+2	1	diamond_2	1	0
+5	4	diamond_5	1	0
+4	3	diamond_4	1	0

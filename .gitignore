@@ -1,0 +1,66 @@
+.svn
+build
+cmake-build-debug
+.idea
+.vscode
+
+*.framework
+*.mm
+*.h
+*.m
+*.a
+*.jar
+
+Code.userprefs
+截图
+文档
+android
+bugly_plugin_v1.5.1
+langtools
+sanxiao_android_studio
+tabletools
+Code/Temp
+Code/Library
+Code/obj
+Code/TargetAndroid
+Code/Assets/Plugins/IOS
+Code/Assets/Plugins/Android
+Code/Assets/UnionPlatform/Plugins
+
+*.csproj
+*.pdf
+*.zip
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
